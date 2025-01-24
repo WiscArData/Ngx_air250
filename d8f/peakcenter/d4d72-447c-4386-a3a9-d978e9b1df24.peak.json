@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QheY9rlW115CF54guVwv8kIXo0m5V0muQheocrlcSV9CF62buU3VHUIXssS5WFhmQhe37rlQVhRCF70XuWepxkIXwkC5ZQUFQhfHablr0bRCF8ySuV5zdkIX0by5XNz0QhfW5blg0xVCF9wOuVVYlkIX4Te5XQN8QhfmYblSsFhCF+uKuUJNEkIX8LO5AJr8Qhf13LkDOvlCF/sFuNjbAkIYAC+4zJZjQhgFWLjFfARCGAqBuNMxTkIYD6q4yjgtQhgU07jw9u9CGBn9uQmJkw==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 37.99949579158317,
+        "center_signal": 0.17093632182771354,
+        "high_dac": 38.025377555110225,
+        "high_resolving_power": 6023.202666666221,
+        "high_signal": 0.135889565,
+        "low_dac": 37.97361402805611,
+        "low_resolving_power": 1519.3138047135371,
+        "low_signal": 0.03370214927311123,
+        "points": "QheY9ri4/cVCF54guJQIyUIXo0m4lCg+QheocriH4PJCF62buGt1+EIXssS4lSpHQhe37riOD0NCF70XuJbLGEIXwkC4ot0OQhfHabi1fbFCF8ySuJJFUUIX0by4SgiwQhfW5TZS86BCF9wOO1l9eEIX4Tc8jC57QhfmYT0qrINCF+uKPakyC0IX8LM+COu8Qhf13D4hIKBCF/sFPiosB0IYAC8+LV2eQhgFWD4uSaNCGAqBPi6xMEIYD6o+Ld5CQhgU0z4iJxdCGBn9Pgsmog==",
+        "resolution": 654.2502898550082
+    },
+    "L4": {
+        "center_dac": 38.00265210420842,
+        "center_signal": 0.0004394402891815721,
+        "high_dac": 38.025377555110225,
+        "high_resolving_power": 4857.324731183143,
+        "high_signal": 0.000296848,
+        "low_dac": 37.97992665330661,
+        "low_resolving_power": 1790.8162698412814,
+        "low_signal": 8.404773118538973e-05,
+        "points": "QheY9gAAAABCF54gMwlwX0IXo0kyiXBfQheocjMJcF9CF62bM04oj0IXssQzCXBfQhe37jMJcF9CF70XAAAAAEIXwkAzCXBfQhfHaTMJcF9CF8ySMolwX0IX0bwzq8x3QhfW5TPwhKdCF9wOM84oj0IX4Tc246IeQhfmYTf7HxJCF+uKOLRST0IX8LM5edRcQhf13DnAdbhCF/sFOdwTPEIYAC855SKEQhgFWDnmWedCGAqBOeZEbUIYD6o54tyMQhgU0znJ3zJCGBn9OZuiRA==",
+        "resolution": 730.5318770226157
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
