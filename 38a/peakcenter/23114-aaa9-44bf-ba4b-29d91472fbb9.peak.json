@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QheUrblELoZCF5nWuWGSTEIXnv+5Vt5uQhekKLlvuixCF6lSuWNIGkIXrnu5YPp5QhezpLlJ2DxCF7jNuVBArEIXvfa5UVnnQhfDILlLbolCF8hJuUoEJEIXzXK5TxjoQhfSm7lYHKtCF9fEuWV5pUIX3O65brzYQhfiF7lVpldCF+dAuS54JUIX7Gm5C+1PQhfxkri6Zz1CF/a8uKpTbkIX++W42UIoQhgBDrje5hxCGAY3uL08r0IYC2C44gXAQhgQirjH82dCGBWzuQCiig==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 37.99480322645291,
+        "center_signal": 0.1704435630970807,
+        "high_dac": 38.021190000000004,
+        "high_resolving_power": 6022.53930476146,
+        "high_signal": 0.133098851,
+        "low_dac": 37.968416452905814,
+        "low_resolving_power": 1534.6426797857694,
+        "low_signal": 0.032950669996579265,
+        "points": "QheUrbjENf5CF5nWuLhEdkIXnv+4n9fQQhekKLihlUpCF6lSuMIDbEIXrnu4qr0wQhezpLh4FY1CF7jNuJchbkIXvfa4gFuvQhfDILhOzmFCF8hJuIU+A0IXzXK4VnWlQhfSm7eWxbFCF9fEO2DIiUIX3O48lEBkQhfiFz1LRnJCF+dAPbwLYEIX7Gk+CiAtQhfxkj4hVWJCF/a8Pin4TkIX++U+LO5zQhgBDj4uCWhCGAY3Pi5ttUIYC2A+LRoTQhgQij4hpRdCGBWzPghLEQ==",
+        "resolution": 654.1781853001427
+    },
+    "L4": {
+        "center_dac": 37.99795953907816,
+        "center_signal": 0.00044144284757252633,
+        "high_dac": 38.021190000000004,
+        "high_resolving_power": 3763.8995654769715,
+        "high_signal": 0.00028776,
+        "low_dac": 37.974729078156315,
+        "low_resolving_power": 1550.6647692688316,
+        "low_signal": 8.744541065731783e-05,
+        "points": "QheUrTMJcF9CF5nWMwlwX0IXnv8zTiiPQhekKAAAAABCF6lSMwlwX0IXrnszCXBfQhezpDOJcF9CF7jNMwlwX0IXvfYyiXBfQhfDIDPwhKdCF8hJMolwX0IXzXIzTiiPQhfSmzOJcF9CF9fENAlwX0IX3O428ZeHQhfiFzgungVCF+dAOOBYTUIX7Gk5erOyQhfxkjnB8/hCF/a8OdelXUIX++U54l3ZQhgBDjnnTrdCGAY3OeVNd0IYC2A521qNQhgQijnDNhhCGBWzOZbefg==",
+        "resolution": 716.5284886621363
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
