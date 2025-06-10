@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhexDblWnXlCF7Y3uVZhTkIXu2C5NFwjQhfAiblQZSxCF8WyuUCg90IXytu5VFp1QhfQBbk+LjpCF9UuuUOdPEIX2le5USGoQhffgLlVEVlCF+SquVmJWEIX6dO5RwpZQhfu/Lk8x8VCF/QluUwoe0IX+U65QUaqQhf+eLk2bIxCGAOhuSLx2kIYCMq42sSYQhgN87jf8i1CGBMcuK9xKUIYGEa4wXyQQhgdb7jTGwFCGCKYuKf4VEIYJ8G4xn3IQhgs6rjpNJRCGDIUuO1akA==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.021506152304624,
+        "center_signal": 0.1666597390847548,
+        "high_dac": 38.048902945891804,
+        "high_resolving_power": 4708.429208831173,
+        "high_signal": 0.114772941,
+        "low_dac": 37.99410935871745,
+        "low_resolving_power": 1520.143784672283,
+        "low_signal": 0.032098250581347125,
+        "points": "QhexDbisVddCF7Y3uLhJ+kIXu2C4lfb4QhfAibhT5LhCF8WyuIzLDEIXytu4h10iQhfQBbiXxnpCF9UuuIV5l0IX2le4iTPoQhffgLicq/1CF+SquIxsjUIX6dO4Z5WqQhfu/DoDhY1CF/QlPA6CpEIX+U486pvlQhf+eD18Ap1CGAOhPdmARkIYCMo+FNKeQhgN8z4i6YZCGBMcPifQSkIYGEY+KcqYQhgdbz4qezpCGCKYPiqRykIYJ8E+JpgBQhgs6j4Ut69CGDIUPesOEw==",
+        "resolution": 624.7520111308795
+    },
+    "L4": {
+        "center_dac": 38.02478871743489,
+        "center_signal": 0.00042973621598722974,
+        "high_dac": 38.048902945891804,
+        "high_resolving_power": 3074.7190751530093,
+        "high_signal": 0.000205744,
+        "low_dac": 38.00067448897797,
+        "low_resolving_power": 1636.0188552449365,
+        "low_signal": 8.594678708524105e-05,
+        "points": "QhexDQAAAABCF7Y3AAAAAEIXu2AyiXBfQhfAiTMJcF9CF8WyM04oj0IXytszCXBfQhfQBTKJcF9CF9UuMwlwX0IX2lczTiiPQhffgDOrzHdCF+SqNAlwX0IX6dMziXBfQhfu/DPOKI9CF/QlNda/lUIX+U43lcl4Qhf+eDiCFy1CGAOhORWz/kIYCMo5phPiQhgN8znMu3xCGBMcOdkdLEIYGEY54HZeQhgdbzng1NtCGCKYOdye0kIYJ8E5y/GfQhgs6jmqpkNCGDIUOVe8/A==",
+        "resolution": 690.7189664336603
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
